@@ -1,0 +1,15 @@
+﻿C:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\AplicationDbContext.cs
+C:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\Controllers\ComentarioController.cs
+C:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\Migrations\20221106220324_v1.0.0.cs
+C:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\Migrations\20221106220324_v1.0.0.Designer.cs
+C:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\Migrations\AplicationDbContextModelSnapshot.cs
+C:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\Models\Comentario.cs
+C:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\Program.cs
+C:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\Startup.cs
+C:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\obj\Debug\net6.0\BackComentarios.GlobalUsings.g.cs
+C:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.cs
+C:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\obj\Debug\net6.0\BackComentarios.AssemblyInfo.cs
+C:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\obj\Debug\net6.0\BackComentarios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\appsettings.Development.json
+C:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\appsettings.json
+C:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\Properties\launchSettings.json

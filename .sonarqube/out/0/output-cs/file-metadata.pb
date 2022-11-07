@@ -1,0 +1,13 @@
+]
+TC:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\AplicationDbContext.csutf-8j
+aC:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\Controllers\ComentarioController.csutf-8j
+aC:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\Migrations\20221106220324_v1.0.0.csutf-8u
+jC:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\Migrations\20221106220324_v1.0.0.Designer.csutf-8w
+lC:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\Migrations\AplicationDbContextModelSnapshot.csutf-8[
+RC:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\Models\Comentario.csutf-8Q
+HC:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\Program.csutf-8Q
+HC:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\Startup.csutf-8{
+pC:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\obj\Debug\net6.0\BackComentarios.GlobalUsings.g.csutf-8à
+}C:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\obj\Debug\net6.0\.NETCoreApp,Version=v6.0.AssemblyAttributes.csutf-8y
+nC:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\obj\Debug\net6.0\BackComentarios.AssemblyInfo.csutf-8ç
+ÅC:\Users\jpabl\Desktop\AppWeb\BackComentarios\BackComentarios\obj\Debug\net6.0\BackComentarios.MvcApplicationPartsAssemblyInfo.csutf-8
