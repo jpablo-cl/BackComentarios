@@ -9,7 +9,7 @@ namespace BackComentarios
 
         public AplicationDbContext(DbContextOptions<AplicationDbContext>options):base(options) 
         {
-            fgfd
+            
         }
     }
 }
